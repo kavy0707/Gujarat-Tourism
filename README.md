@@ -1,10 +1,10 @@
-<!-- # Gujarat Tourism
+# Gujarat Tourism
 This is  tourism guide project make for de subject in sem-6
 
 #Team
 Kavy Boricha
 Kishan chavda
-Ravi Chavda -->
+Ravi Chavda
 
 # React + Vite
 
