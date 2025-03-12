@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body,
+html {
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #F5F5DC;
+    padding: 20px 20px;
+    z-index: 100;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+.nav-links a {
+   
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu-icon {
+    display: none;
+}
+
+.hero-section {
+    height: 690px;
+    background-size: 100% 100%;
+    animation: slider 10s linear infinite;
+}
+
+@keyframes slider {
+    0% {
+        background-image: url('https://surattourism.in/images/places-to-visit/header/tithal-beach-surat-tourism-entry-fee-timings-holidays-reviews-header.jpg');
+    }
+
+    25% {
+        background-image: url('https://www.baps.org/Data/Sites/1/Media/ModuleRotatorImages/baps_pune_worldwide.jpg');
+    }
+
+    50% {
+        background-image: url('https://images.herzindagi.info/image/2023/Sep/top-places-to-visit-wilson-hills-in-gujarat.jpg');
+    }
+
+    75% {
+        background-image: url('https://utsav.gov.in/public/uploads/event_cover_image/event_920/1662877237351965270.jpg');
+    }
+
+    100% {
+        background-image: url('https://i.ytimg.com/vi/k3b5wo0AhQU/maxresdefault.jpg');
+    }
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.hero-content {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.hero-content h1 {
+    font-size: 5rem;
+    margin-bottom: 20px;
+    color: rgb(230, 91, 91);
+    text-shadow: 6px 6px 4px #fae32f;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hero-content p {
+    font-size: 1.5rem;
+    text-shadow: 0.5px 1px gold;
+}
+
+.main-box {
+    width: auto;
+    background-color: #F5F5DC;
+    margin-left: 78px;
+    margin-right: 78px;
+    margin-top: 58px;
+    padding-bottom: 40px; /* Add padding at the bottom for spacing */
+}
+
+/* Spacing between boxes */
+.box-1 {
+    height: auto; /* Remove fixed height to allow content-based height */
+    width: 80vw;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 70px;
+    display: flex;
+    /* border: 2px solid red; */
+    padding: 20px; /* Add padding inside the boxes */
+}
+
+/* Ensure left image section scales properly */
+.left {
+    width: 40%;
+    height: auto;
+}
+
+.left img {
+    width: 100%; /* Make the image fit its container */
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Ensure right text section scales with the content */
+.right {
+    width: 50%;
+    height: auto;
+}
+
+.right p {
+    margin-top: 10%;
+    font-family: "popins";
+    font-size: 20px;
+    line-height: 1.5; /* Add line-height for better readability */
+    margin-left: 70px;
+}
+
+#Third-box{
+    .left img{
+        height: 292px;
+    }
+}

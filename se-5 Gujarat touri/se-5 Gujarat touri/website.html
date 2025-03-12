@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gujarat Tourism</title>
+    <link rel="stylesheet" href="website.css">
+    <link rel="stylesheet" href="website.js">
+</head>
+
+<body>
+    <h1>GUJARAT TOURISM</h1>
+    <div class="background">
+    <header>
+        <nav>
+            <ul>
+                
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about us">About us</a></li>
+                <li><a href="#contact us">Contact us</a></li>
+                <li><a href="#feedback">Feedback</a></li>
+            </ul>
+        </nav>
+    </header>
+
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search City...">
+            <button id="searchBtn">Search</button>
+        </div>
+        <div class="searchResults">
+
+        </div>
+        <div class="info-gujrat">
+            <h2>About Gujrat</h2>
+            <p>Gujarat, spanning an area of 196,024 km², is located on India's western coast. It boasts a diverse culture with rich traditions in dance, music, and festivals like Navratri. The state is home to India's longest coastline, including the famous Mandvi Beach. Gujarat also preserves the Gir Forest, home to Asiatic lions.</p>
+        </div>
+
+        <div class="slider">
+            
+        </div>
+        <div class="maincontent">
+            <section id="featured">
+                <h2>Featured Attractions</h2>
+                <div class="card-container">
+                    <div class="card">
+                        <img src="city park.webp" alt="Attraction 1">
+                        <h3>City Park</h3>
+                        <p>Explore the largest park in the city, a perfect place for relaxation and fun.</p>
+                    </div>
+        
+                    <div class="card">
+                        <img src="historical movement.jpg" alt="Attraction 2">
+                        <h3>Historical Museum</h3>
+                        <p>Delve into the city's rich history at the renowned Historical Museum.</p>
+                    </div>
+        
+                    <div class="card">
+                        <img src="art gellery.jpeg" alt="Attraction 3">
+                        <h3>Art Gallery</h3>
+                        <p>Discover contemporary art from local and international artists.</p>
+                    </div>
+        
+                    <!-- Add more cards here -->
+                    <div class="card">
+                        <img src="theater.jpg" alt="Attraction 4">
+                        <h3>Theater District</h3>
+                        <p>Catch a live performance at the city's vibrant theater district.</p>
+                    </div>
+        
+                    <div class="card">
+                        <img src="science_center.jpg" alt="Attraction 5">
+                        <h3>Science Center</h3>
+                        <p>Engage with interactive exhibits and discover the wonders of science.</p>
+                    </div>
+        
+                    <div class="card">
+                        <img src="zoo.jpg" alt="Attraction 6">
+                        <h3>City Zoo</h3>
+                        <p>Visit the city's zoo and explore the diverse wildlife exhibits.</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <div class="about">
+
+        </div>
+
+        <div class="contact">
+            <h2>Contact Us</h2>
+            <div class="social-icons">
+                <a href="https://www.instagram.com/yourInstagramAccount" target="_blank">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/900px-Instagram_logo_2022.svg.png"
+                        alt="">
+                </a>
+                <a href="https://www.x.com/yourTwitterAccount" target="_blank">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/c/ce/20230819000803%21X_logo_2023.svg/120px-X_logo_2023.svg.png"
+                        alt="">
+                </a>
+                <a href="https://www.facebook.com/yourFacebookAccount" target="_blank">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/900px-Facebook_logo_%28square%29.png"
+                        alt="">
+                </a>
+            </div>
+        </div>
+
+        <div class="feedback">
+            <h3>Feedback</h3>
+            <form id="contact-form" onsubmit="sendEmail();reset();return false;">
+                <div class="form-group">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" rows="5" required></textarea>
+                </div>
+                <div class="form-group">
+                    <button type="submit">Send Message</button>
+                </div>
+            </form>
+            <div id="result"></div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Gujarat Tourism. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

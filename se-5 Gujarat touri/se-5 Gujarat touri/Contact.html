@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        #Main {
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            background-color: #f0d8d8;
+            background-size: cover;
+            background-position: center;
+            color: #887eb8;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 4em;
+            margin: 0;
+            text-shadow: 13px 9px 9px rgb(208 65 65 / 50%);
+        }
+
+        /* Navigation Styles */
+        nav ul {
+            list-style-type: none;
+            margin: 20px 0 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            background-color: rgba(0, 0, 0, 0.7);
+        }
+
+        nav ul li {
+            margin: 0 20px;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 15px;
+            display: block;
+            transition: background-color 0.3s ease;
+        }
+
+        nav ul li a:hover {
+            background-color: #ff6347;
+            border-radius: 20px;
+        }
+
+        /* contact   */
+
+        .contact-section {
+            text-align: left;
+            padding: 50px;
+        }
+
+        .contact-section h2 {
+            font-size: 24px;
+            color: #444;
+        }
+
+        .contact-box {
+            display: flex;
+            align-items: center;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            margin-top: 20px;
+            margin-left: 40%;
+        }
+
+        .helpline-icon {
+            width: 60px;
+            height: auto;
+            margin-right: 15px;
+        }
+
+        .contact-info h3 {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 5px;
+        }
+
+        .phone-number {
+            font-size: 18px;
+            color: #e74c3c;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to City Guide</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#attractions">Attractions</a></li>
+                <li><a href="#restaurants">Restaurants</a></li>
+                <li><a href="#events">Events</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="contact-section">
+        <h2>Contact Us</h2>
+
+        <div class="contact-box">
+            <img src="helpline-icon.png" alt="24/7 Helpline" class="helpline-icon">
+            <div class="contact-info">
+                <h3>HELP LINE NUMBER</h3>
+                <p class="phone-number">+91- 9879486141</p>
+            </div>
+        </div>
+
+    </section>
+</body>
+</html>

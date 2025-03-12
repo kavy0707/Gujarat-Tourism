@@ -1,0 +1,126 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+}
+
+.logo {
+    width: 80%;
+    height: auto;
+    vertical-align: middle;
+    width: 134px;
+    height: 56px;
+    margin-right: -2px;
+}
+
+.hero-section {
+    height: 690px;
+    background-size: 100% 100%;
+    animation: slider 10s linear infinite;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: -1px;
+}
+
+@keyframes slider {
+    0% {
+        background-image: url('girnar.jpg');
+    }
+
+    25% {
+        background-image: url('atal\ bridge.jpeg');
+
+    }
+
+    50% {
+        background-image: url('camel.jpg');
+    }
+
+    75% {
+        background-image: url('ranikivav.jpg');
+    }
+
+    100% {
+        background-image: url('Katch.jpg');
+    }
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.hero-content {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-bottom: 447px;
+}
+
+.hero-content h1 {
+    font-size: 5rem;
+    margin-bottom: 20px;
+    text-shadow: 6px 6px 4px #fae32f;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.hero-section {
+    position: relative;
+    height: 100vh;
+    background-image: url('your-image-path.jpg');
+    /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-overlay {
+    text-align: center;
+    color: white;
+}
+
+.text-overlay h2 {
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    letter-spacing: 0.5px;
+}
+
+.text-overlay h1 {
+    font-size: 5rem;
+    font-family: 'Brush Script MT', cursive;
+    /* A cursive font similar to the image */
+    letter-spacing: 2px;
+    margin-top: 1rem;
+}
+
+/* Optional: Add a slight shadow for better visibility on background */
+.text-overlay h2,
+.text-overlay h1 {
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
+}
+
+.third{
+    background-image: url('https://img.freepik.com/free-photo/beautiful-girl-sitting-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand_335224-1163.jpg?t=st=1727707609~exp=1727711209~hmac=efb257091bce76aae1ca7ccf19921a391c3b1d806515de3e4284b333eaa1f7a8&w=996');
+}

@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body,
+html {
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #F5F5DC;
+    padding: 20px 20px;
+    z-index: 100;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+.nav-links a {
+   
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu-icon {
+    display: none;
+}
+
+.hero-section {
+    height: 690px;
+    background-size: 100% 100%;
+    animation: slider 10s linear infinite;
+}
+
+@keyframes slider {
+    0% {
+        background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/9b/Kaba_Gandhi_No_Delo_-_The_house_were_Gandhiji_lived_during_his_school_days.jpg');
+    }
+
+    25% {
+        background-image: url('https://tgmhotel.com/upload/blogs/a87ff679a2f3e71d9181a67b7542122c.png?1656575588');
+    }
+
+    50% {
+        background-image: url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/46/30/9d/caption.jpg?w=1200&h=-1&s=1');
+    }
+
+    75% {
+        background-image: url('https://media.holidify.com/images/cmsuploads/compressed/maxresdefault_20250109142044.jpg');
+    }
+
+    100% {
+        background-image: url('https://content.jdmagicbox.com/comp/rajkot/y6/0281px281.x281.230204181559.r9y6/catalogue/ram-van-rajkot-tourist-attraction-lpVNrke2w1.jpg');
+    }
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.hero-content {
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.hero-content h1 {
+    font-size: 5rem;
+    margin-bottom: 20px;
+    color: rgb(230, 91, 91);
+    text-shadow: 6px 6px 4px #fae32f;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hero-content p {
+    font-size: 1.5rem;
+    text-shadow: 0.5px 1px gold;
+}
+
+.main-box {
+    width: auto;
+    background-color: #F5F5DC;
+    margin-left: 78px;
+    margin-right: 78px;
+    margin-top: 58px;
+    padding-bottom: 40px; /* Add padding at the bottom for spacing */
+}
+
+/* Spacing between boxes */
+.box-1 {
+    height: auto; /* Remove fixed height to allow content-based height */
+    width: 80vw;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 70px;
+    display: flex;
+    /* border: 2px solid red; */
+    padding: 20px; /* Add padding inside the boxes */
+}
+
+/* Ensure left image section scales properly */
+.left {
+    width: 40%;
+    height: auto;
+}
+
+.left img {
+    width: 100%; /* Make the image fit its container */
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* Ensure right text section scales with the content */
+.right {
+    width: 50%;
+    height: auto;
+}
+
+.right p {
+    margin-top: 10%;
+    font-family: "popins";
+    font-size: 20px;
+    line-height: 1.5; /* Add line-height for better readability */
+    margin-left: 70px;
+}
+
+#Third-box{
+    .left img{
+        height: 292px;
+    }
+}
