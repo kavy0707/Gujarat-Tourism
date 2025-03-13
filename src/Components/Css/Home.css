@@ -50,6 +50,15 @@ nav ul li a:hover {
     border-radius: 20px;
 }
 
+nav ul li img {
+    width: 40px;
+    height: 35px;
+    margin-right: -172vh;
+}
+
+
+
+
 /* Section-1 Fix */
 .Section-1 {
     position: relative;
@@ -136,7 +145,10 @@ nav ul li a:hover {
     margin-bottom: 15px;
     font-family: Arial, sans-serif;
     font-weight: normal;
+    text-indent: 56px;
+
 }
+
 
 .highlight {
     font-weight: bold;
