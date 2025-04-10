@@ -8,21 +8,13 @@ function home() {
 
         <div id='Main'>
 
-            <header>
-                <h1>Welcome to City Guide</h1>
-                <nav>
-                    <ul>
-                        <li><Link to="/">Home</Link></li>
-                        <li><Link to="#attractions">Attractions</Link></li>
-                        <li><Link to="#restaurants">Restaurants</Link></li>
-                        <li><Link to="#events">Events</Link></li>
-                        <li><Link to="/Localguide">Local Guide</Link></li>
-                        <li><Link to="#events"><img src="https://i.redd.it/bbqi9g7r5l9a1.jpg" alt="" srcset="" /></Link></li>
-
-                    </ul>
-                </nav>
+            <header className='head'>
+                <div className="header-title">
+                    <h1 >Welcome to City Guide</h1>
+                </div>
+                <Navbar />
             </header>
-
+            
             {/* <!-- Section-1  --> */}
             <section className="Section-1">
                 <div className="overlay">
@@ -152,7 +144,7 @@ function home() {
                     <div className="Section-5-column">
                         <h3>HOTELS IN GUJARAT</h3>
                         <ul>
-                            <li><Link to="#">Hotels in Ahmedabad</Link></li>
+                            <li><Link to="http://www.gujarattourismonline.com/hotel-search-listing/?city=Ahmedabad">Hotels in Ahmedabad</Link></li>
                             <li><Link to="#">Hotels in Dwarka</Link></li>
                             <li><Link to="#">Hotels in Somnath</Link></li>
                             <li><Link to="#">Hotels in Diu</Link></li>

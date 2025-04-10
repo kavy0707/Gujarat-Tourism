@@ -51,8 +51,6 @@ function guide() {
 
 
                     <label htmlFor="name">Full Name:</label>
-
-
                     <input type="text" id="name" name="name" placeholder="Enter your name" onChange={onchange} required />
 
                     <label htmlFor="email">Email Address:</label>

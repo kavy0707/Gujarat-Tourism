@@ -65,6 +65,46 @@
                 "name": "Watson Museum",
                 "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d5/fc/a1/cartolina-da-rajkot.jpg?w=900&h=500&s=1",
                 "description": "Watson Museum, located in Rajkot, is one of the oldest and most significant museums in Gujarat."
+            },
+            {
+                "name": "Sabarmati Ashram",
+                "image": "https://media.istockphoto.com/id/1492067773/photo/sabarmati-gandhi-ashram-in-ahmedabad.jpg?s=612x612&w=0&k=20&c=izV9iO8GFxsDufkFxlryyXz9CJ9IzFznggzd6THafVQ=",
+                "description": "Sabarmati Ashram, once home to Mahatma Gandhi, is now a museum preserving his legacy, showcasing his personal artifacts, letters, and the famous charkha."
+            },
+            {
+                "name": "Adalaj Stepwell",
+                "image": "https://media.istockphoto.com/id/821330386/photo/adalaj-stepwell-indian-heritage-tourist-place-ahmedabad-gujarat-world-heritage-city.jpg?s=612x612&w=0&k=20&c=DHBlcVJPnxsKdKt64Q088Z90-SKkI42cNmK8Yfwot2E=",
+                "description": "he Adalaj Stepwell, built in 1499, is a five-story deep well known for its magnificent Indo-Islamic architecture and detailed carvings."
+            },
+            {
+                "name": "Hutheesing Jain Temple",
+                "image": "https://media.istockphoto.com/id/1248778075/photo/hutheesing-jain-temple-in-ahmedabad.jpg?s=612x612&w=0&k=20&c=X0h4gJJVpBWcsUCaGLMs9-fT2Xb8TZxbWpl-Wh7Y1MM=",
+                "description": "The Hutheesing Jain Temple, built in 1848, is a stunning marble temple dedicated to the 15th Jain Tirthankara, Dharmanatha, with intricate carvings and peaceful ambiance."
+            },
+            {
+                "name": "Kankaria Lake",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNsXjseBDtliIG0KGMdemKR1pdgKNmNFQ2SA&s",
+                "description": "Kankaria Lake, a historic circular lake, is now a recreational hub featuring parks, a zoo, balloon rides, and light shows, making it a favorite family destination."
+            },
+            {
+                "name": "Jama Masjid Ahmedabad",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-e9kgaqZyrB7q9aOOHBHD8ErsobJqWame6Q&s",
+                "description": "The Jama Masjid, constructed in 1424, is a magnificent mosque built by Sultan Ahmed Shah, showcasing the grandeur of Indo-Islamic architecture in Gujarat."
+            },
+            {
+                "name": "Calico Museum of Textiles",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfToYYidUeF-ghsQqziO5dYua6GwOKQCHVmA&s",
+                "description": "The Calico Museum of Textiles, one of the finest textile museums in India, displays an impressive collection of antique textiles, dating back five centuries."
+            },
+            {
+                "name": "Sarkhej Roza",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdYYkXmxGkaJh152eBUCaYrQ9W2JC7BQuxsA&s",
+                "description": "Sarkhej Roza, a mosque and tomb complex, represents a fusion of Islamic, Persian, and Indian architecture. It's often referred to as the Acropolis of Ahmedabad."
+            },
+            {
+                "name": "Teen Darwaza",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpjQ0EyS-THY0nK0d3u5xZPTvgh7YatPr6hg&s",
+                "description": "Teen Darwaza is one of the most famous historical gateways of Ahmedabad, built by Sultan Ahmed Shah in the 15th century, known for its grand architecture."
             }
         ]
     },
@@ -771,6 +811,826 @@
                 "image": "https://i.ytimg.com/vi/k3b5wo0AhQU/maxresdefault.jpg",
                 "description": "A tranquil beach with soft sands and calm waters, ideal for relaxation.",
                 "location": "Near Valsad, Gujarat"
+            }
+        ]
+    },
+    "amreli": {
+        "name": "Amreli",
+        "tagline": "Land of Lions and Legacy",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/d/d7/%E0%AA%85%E0%AA%AE%E0%AA%B0%E0%AB%87%E0%AA%B2%E0%AB%80_%E2%80%93_Amreli.svg",
+        "attractions": [
+            {
+                "name": "Gir National Park and Wildlife Sanctuary",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlhebkXZxw7OFwWMkVTFGlIADCudLV1WASztWhkURbbqVGcAguYVIdgxfdvMwzw8BqhiE&usqp=CAU",
+                "description": "Located near Amreli, Gir National Park is the only place in the world where the majestic Asiatic Lions roam freely in the wild. Spread across 1,412 sq km, the sanctuary is also home to leopards, deer, antelopes, and over 300 species of birds. Safari rides offer an unforgettable experience of witnessing wildlife up close."
+            },
+            {
+                "name": "Khodiyar Mata Temple, Dhari",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtm29sL812JMMnnmVv0I8HXxUQSlrRNPGGg&s",
+                "description": "Located in Dhari, about 45 km from Amreli, this temple is dedicated to Goddess Khodiyar, a deity worshipped by the Charan community. The temple attracts thousands of devotees, especially during festivals. The serene surroundings of the temple add to the spiritual experience."
+            },
+            {
+                "name": "Bhurakhiya Hanuman Mandir",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwmCrh4C7Ylw4ZjDV-MXtQEE4vttGK2uEEMg&s",
+                "description": "Situated on the outskirts of Amreli city, Bhurakhiya Hanuman Temple is a revered site dedicated to Lord Hanuman. It is believed that devotees who pray here with a pure heart receive protection from evil and negativity."
+            },
+            {
+                "name": "Rajmahal, Amreli",
+                "image": "https://peopleplaces.in/wp-content/uploads/2023/03/Rajmahel-Amreli.jpg",
+                "description": "A historical palace that once served as the residence of the rulers of Amreli. The Rajmahal reflects the architectural grandeur of a bygone era, with its intricate carvings and majestic structure. Though not fully open to the public, its historical importance draws many visitors."
+            },
+            {
+                "name": "Una Beach (Near Amreli)",
+                "image": "https://content.jdmagicbox.com/comp/amreli/k8/9999p2792.2792.190814114946.h2k8/catalogue/sarkeshwar-beach-amreli-zzuw9r8viy.jpg",
+                "description": "Located near Amreli, Una Beach is a tranquil spot that offers a peaceful escape from the hustle and bustle. The calm waters and pristine surroundings make it an ideal place for relaxation and beach walks."
+            },
+            {
+                "name": "Nagnath Temple",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsvfychUsrVzdbdWU1ITvUqQz3HZTE12zrbw&s",
+                "description": "One of the oldest temples in Amreli, Nagnath Temple is dedicated to Lord Shiva. The temple features intricate carvings and is believed to have been built during the Solanki period. It is a popular site for devotees during Shivratri."
+            },
+            {
+                "name": "Pipavav Port",
+                "image": "https://cdn.s3waas.gov.in/s3b056eb1587586b71e2da9acfe4fbd19e/uploads/bfi_thumb/2018072075-olwbgomn7vjq7958yawl69ic98dkxqhnzdtq1jdimi.jpg",
+                "description": "Pipavav is one of India’s major ports, located near Amreli. Though primarily an industrial site, the port offers scenic views of the Arabian Sea and is an important hub for trade and commerce."
+            },
+            {
+                "name": "Savarkundla",
+                "image": "https://content.jdmagicbox.com/comp/savarkundla/v9/9999p2792.2792.230827152621.c9v9/catalogue/savarkundla-railway-station-manibhai-chowk-savarkundla-railway-station-YQijdQa3Gj-250.jpg",
+                "description": "Savarkundla is known for its vibrant local culture and industries. It is also a gateway to nearby tourist attractions, including temples and historical sites. The town is famous for its diamond polishing and metal industries."
+            },
+            {
+                "name": "Bagasara Town",
+                "image": "https://onefivenine.com/images/GoogleMapImages/21_5470_99.jpg",
+                "description": "Bagasara, a town in the Amreli district, is known for its bustling markets and local culture. The town offers a glimpse into the traditional lifestyle and handicrafts of Gujarat."
+            }
+        ]
+    },
+    "banaskantha": {
+        "name": "Banaskantha",
+        "tagline": "Where Culture Flows with the Banas River",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%E0%AA%AC%E0%AA%A8%E0%AA%BE%E0%AA%B8%E0%AA%95%E0%AA%BE%E0%AA%82%E0%AA%A0%E0%AA%BE_%E2%80%93_Banaskantha.svg",
+        "attractions": [
+            {
+                "name": "Ambaji Temple",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdtJhWR649_yhTz2g_Kt25_n7ICDqzfLt4MQ&s",
+                "description": "One of the 51 Shakti Peethas, Ambaji Temple is a highly revered pilgrimage site dedicated to Goddess Amba. The temple does not house an idol but worships the ‘Shree Yantra,’ a sacred geometrical representation of the goddess. Devotees flock here, especially during the Navratri festival."
+            },
+            {
+                "name": "Gabbar Hill ",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/22/6a/97/place-where-gabbar-walkway.jpg?w=900&h=-1&s=1",
+                "description": "Located near Ambaji Temple, Gabbar Hill is believed to be the original seat of Goddess Amba. Pilgrims climb around 999 steps to reach the summit, where they can witness breathtaking views and feel a deep spiritual connection. A ropeway is also available for convenience."
+            },
+            {
+                "name": "Balaram Palace Resort",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Balaram_Palace.jpg/640px-Balaram_Palace.jpg",
+                "description": "Once the summer palace of the Nawabs of Palanpur, Balaram Palace is now a heritage resort. Surrounded by lush greenery and hills, the palace reflects colonial and neo-classical architectural styles. It’s a great place for visitors looking to relax and experience royal grandeur."
+            },
+            {
+                "name": "Jessore Sloth Bear Sanctuary",
+                "image": "https://cdn.s3waas.gov.in/s38ebda540cbcc4d7336496819a46a1b68/uploads/bfi_thumb/2018071835-olwa8osdqdps6uvnug9xo4tsokwt029sn8xzjx8ous.jpg",
+                "description": "Located in the Jessore hills of the Aravalli range, this sanctuary is home to the endangered sloth bear. Spread across 180 square kilometers, it also houses leopards, hyenas, and various bird species. It’s a must-visit spot for wildlife lovers and nature enthusiasts."
+            },
+            {
+                "name": " Palanpur City",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kirtistambh_from_bus_station_side.jpg/1200px-Kirtistambh_from_bus_station_side.jpg",
+                "description": "The administrative headquarters of Banaskantha, Palanpur is known for its rich history and architectural marvels. It houses several beautiful Jain temples and historic buildings, making it a culturally significant town."
+            },
+            {
+                "name": "Kumbhariya Jain Temples",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kumbhariya_Jain_Derasar_complex%2C_Ambaji_Gujarat_240.jpg/1100px-Kumbhariya_Jain_Derasar_complex%2C_Ambaji_Gujarat_240.jpg",
+                "description": "Located near Ambaji, these intricately carved temples date back to the 11th and 12th centuries. The group of five marble temples is dedicated to Jain Tirthankaras and is an architectural delight for visitors."
+            },
+            {
+                "name": "Dantiwada Dam",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmeyAK5WQX4WtnGOrKlW3Xvby3ERsz-km7yw&s",
+                "description": "Built on the Banas River, Dantiwada Dam is an ideal spot for nature lovers and picnickers. The scenic surroundings and serene environment make it a great place for relaxation and enjoying the beauty of nature."
+            },
+            {
+                "name": "Shri Pataleshwar Mahadev Temple",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRulsqy6W5d8iEcQ05UdMtSpqroNZJVtLBxQ&s",
+                "description": "A revered Shiva temple located in Palanpur, believed to be built by King Siddharaj Jaisinh. The temple attracts devotees, especially during the festival of Mahashivratri."
+            },
+            {
+                "name": "Banas Dairy",
+                "image": "https://content.jdmagicbox.com/comp/banaskantha/t4/9999p2748.2748.221116220212.w3t4/catalogue/sanadar-banas-dairy-plant-banaskantha-milk-dairy-Mqdo3hAuSq.jpg",
+                "description": "One of the largest dairy cooperatives in Asia, Banas Dairy is a major contributor to the Gujarat dairy industry. It showcases the success of the cooperative movement and serves as an inspiration for farmers and entrepreneurs."
+            },
+            {
+                "name": "Keerti Stambh (Victory Tower)",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO_j8Gx_7sN6Y6ygfZ9YRvfhf6TJv6WDfErw&s",
+                "description": "Located in Palanpur, this historical monument was built to commemorate victory in a battle. It stands as a symbol of pride and valor, drawing history buffs and tourists alike."
+            }
+        ]
+    },
+    "bharuch": {
+        "name": "Bharuch",
+        "tagline": "Gateway of Ancient Trade and Timeless Heritage.",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/b/be/%E0%AA%AD%E0%AA%B0%E0%AB%82%E0%AA%9A_%E2%80%93_Bharuch.svg",
+        "attractions": [
+            {
+                "name": "Golden Bridge",
+                "image": "https://images.hive.blog/DQmQxD4RH5zqaQpPBP8NQZ4oDBTnaYidbE6PKRvNNS9s4QD/image.png",
+                "description": "Built in 1881 during British rule, the Golden Bridge connects Bharuch to Ankleshwar over the Narmada River. The bridge, made of steel and iron, has withstood many floods and remains a historical landmark of the city. It is a popular spot for photography and offers stunning views of the river and surrounding areas."
+            },
+            {
+                "name": "Narmada Park",
+                "image": "https://peopleplaces.in/wp-content/uploads/2023/03/Narmada-Park-1.jpg",
+                "description": "A well-maintained park along the Narmada River, Narmada Park is a popular place for morning walks, jogging, and relaxation. The park offers scenic views of the river and is a great spot for picnics and photography."
+            },
+            {
+                "name": "Shri Swaminarayan Mandir",
+                "image": "https://content.jdmagicbox.com/comp/bharuch/l4/9999p2642.2642.140818125707.t9l4/catalogue/baps-shri-swaminarayan-mandir-zadeshwar-road-bharuch-bharuch-temples-23ik4rw.jpg",
+                "description": "A beautiful temple built in traditional Swaminarayan architectural style, this temple attracts thousands of devotees. The intricate carvings and peaceful ambiance make it a must-visit spiritual site."
+            },
+            {
+                "name": "Bhrigu Rishi Temple",
+                "image": "https://content.jdmagicbox.com/comp/bharuch/v6/9999p2642.2642.170315151559.c6v6/catalogue/bhrigu-rishi-temple-katopor-bazar-bharuch-tourist-attraction-3gdyxkz.jpg",
+                "description": "Bharuch is believed to be named after the great sage Bhrigu Rishi. This ancient temple dedicated to him is considered a highly sacred site. Pilgrims visit to seek blessings and learn about the city's mythological past."
+            },
+            {
+                "name": "Nilkantheshwar Mahadev Temple",
+                "image": "https://content.jdmagicbox.com/comp/bharuch/r5/9999p2642.2642.141218171140.i2r5/catalogue/nilkantheshwar-mahadev-temple-bharuch-ho-bharuch-temples-4kv1g9j.jpg",
+                "description": "Situated on the banks of the Narmada River, this temple is dedicated to Lord Shiva. The temple is surrounded by a serene environment and offers breathtaking views of the river, making it a peaceful place for worship."
+            },
+            {
+                "name": "Bharuch Fort",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFV81qxyFaqCRwz_qRB9_EI73bhGYxtnEog&s",
+                "description": "An ancient fort that dates back to the 12th century, Bharuch Fort offers a glimpse into the city's rich history. The fort's architecture and strategic location make it a fascinating site for history enthusiasts."
+            },
+            {
+                "name": "Valanda Kothi (Dutch and British Cemetery)",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgq9Ur1Yir1WBXqaG8_vs_aVvIpzhnGA7pQ&s",
+                "description": "A historical cemetery from the colonial era, this site holds the tombs of Dutch and British officials who lived in Bharuch. The place offers insight into Bharuch’s past as a significant port town during colonial rule."
+            },
+            {
+                "name": "Shoolpaneshwar Wildlife Sanctuary",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ76haxXz0lUgWm71xBPt0W1Qnl4fVIcC3R3w&s",
+                "description": "Located near Rajpipla, this sanctuary is home to leopards, sloth bears, deer, and a variety of birds. The dense forests, hilly terrain, and scenic waterfalls make it an excellent spot for nature lovers and trekkers."
+            },
+            {
+                "name": "Ninai Waterfall",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/76/3a/54/ninai-falls.jpg?w=1200&h=-1&s=1",
+                "description": "Situated in the Shoolpaneshwar Wildlife Sanctuary, Ninai Waterfall is a mesmerizing natural attraction. The cascading water amidst lush green surroundings offers a perfect spot for relaxation and photography."
+            },
+            {
+                "name": "Kabirvad",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/religious-sites/kabirvad/Kabirvad-Banner.jpg",
+                "description": "Located on an island in the Narmada River, Kabirvad is a spiritual place associated with the poet-saint Kabir. The island is famous for its massive banyan tree, which is believed to be over 600 years old. It is a peaceful retreat for meditation and spiritual seekers."
+            },
+            {
+                "name": "Jambusar Stepwell (Vav)",
+                "image": "https://rediscoveryproject.com/wp-content/uploads/2016/03/dscf1082-1-e1488125992927.jpg",
+                "description": "An ancient stepwell near Bharuch, this structure was used for water conservation during the Solanki era. The stepwell showcases beautiful carvings and traditional Gujarati architecture."
+            }
+        ]
+    },
+    "dahod": {
+        "name": "Dahod",
+        "tagline": "Tribal Pride, Royal Roots",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/0/0a/%E0%AA%A6%E0%AA%BE%E0%AA%B9%E0%AB%8B%E0%AA%A6_%E2%80%93_Dahod.svg",
+        "attractions": [
+            {
+                "name": "Dahod Fort",
+                "image": "https://cmsadmin.amritmahotsav.nic.in/writereaddata/Portal/Images/Gadi_fort_of_Dahod.jpg",
+                "description": "A historic fort built during the Mughal era, Dahod Fort served as a strategic defense structure. It is known for its robust architecture and historical significance. The fort attracts history enthusiasts who wish to explore the Mughal legacy in Gujarat."
+            },
+            {
+                "name": "Ratanmahal Sloth Bear Sanctuary",
+                "image": "https://www.gujaratadventureclub.com/storage/images/photos/1695233749.jpg",
+                "description": "Located in the Ratanmahal hills near Dahod, this sanctuary is famous for its sloth bear population. The sanctuary also hosts leopards, hyenas, and various bird species, making it an excellent destination for wildlife lovers and adventure seekers."
+            },
+            {
+                "name": "Kadana Dam",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZrs7mSc43-fHkd2Cu3nuq20o6fr32aT15hg&s",
+                "description": "Built on the Mahi River, Kadana Dam is a popular picnic spot offering beautiful scenic views. The reservoir and surrounding lush greenery make it a peaceful retreat for nature lovers and a perfect spot for photography."
+            },
+            {
+                "name": "Sikandar Shah's Tomb",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwR8D5D_exkiH5K_LyPzXZwWatVQgxsJcpxw&s",
+                "description": "Located in Halol near Dahod, this historical tomb is dedicated to Sikandar Shah, the last ruler of the Gujarat Sultanate. The tomb is an architectural marvel showcasing intricate carvings and Mughal influences."
+            },
+            {
+                "name": "Hanuman Shamalaji Temple",
+                "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/521/2025/01/12/ef642bc2-b1a9-424a-af26-6c833d8d503d_1736687247189.jpg",
+                "description": "Located near Dahod, this ancient temple is dedicated to Lord Hanuman and is visited by devotees throughout the year. The temple is surrounded by a serene environment, adding to the spiritual experience."
+            },
+            {
+                "name": "Ram Sagar Talav",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ramsagar_Lake_Godhra.jpg/1280px-Ramsagar_Lake_Godhra.jpg",
+                "description": "A serene lake in the heart of Dahod, offering a peaceful environment for relaxation and evening walks. It’s a popular spot for locals and tourists to enjoy the natural beauty of the region."
+            },
+            {
+                "name": "Kaleshwari Group of Monuments",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQevJXcAseeI_GoAQIh11vrzWVEri4H5M3Qzw&s",
+                "description": "Located near Dahod, this site consists of ancient stepwells, temples, and structures that date back to the 14th century. It reflects the rich architectural heritage of the region and is a must-visit for history enthusiasts."
+            }
+        ]
+    },
+    "dangs": {
+        "name": "Dang",
+        "tagline": "Nature’s Hidden Paradise in Gujarat",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dang_in_Gujarat_%28India%29.svg/250px-Dang_in_Gujarat_%28India%29.svg.png",
+        "attractions": [
+            {
+                "name": "Girmal Waterfall",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/destinations/dang/attractions/ecotourism/waterfalls/Girmal-Falls-Banner-min.jpg",
+                "description": "The highest waterfall in Gujarat, located in the dense forests of Dangs. During monsoon, the 80-meter-high waterfall is in full glory. It is a great spot for picnics and photography."
+            },
+            {
+                "name": "Don Hill Station",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/flora--fauna/don-hill-station/Don-Hill-Station-Thumbnail.jpg",
+                "description": "A lesser-known but scenic hill station in Dangs, Don is surrounded by thick forests, misty mountains, and cool weather. It is an excellent alternative to Saputara for those looking for a quiet retreat."
+            },
+            {
+                "name": "Vansda National Park",
+                "image": "https://forests.gujarat.gov.in/writereaddata/images/vansada-1-big.jpg",
+                "description": "A protected forest area rich in flora and fauna, including tigers, leopards, pythons, and giant squirrels. The park has tall teak trees, bamboo groves, and several small rivers, making it an exciting place for wildlife enthusiasts."
+            },
+            {
+                "name": "Shabari Dham",
+                "image": "https://darpan.blog/wp-content/uploads/2015/06/The-Main-Temple-Shabari-Dham-Subir-Ahwa-The-Story-of-Lord-Rama-Ber-Shabari-4.jpg",
+                "description": "A revered religious site associated with the Ramayana, Shabari Dham is believed to be the place where Mata Shabari met Lord Rama and offered him berries. It is a major pilgrimage spot and attracts devotees from across India."
+            },
+            {
+                "name": "Anjani Kund (Birthplace of Lord Hanuman)",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOgFWnkzp7PdHHMvCkRI-Mbcrb79hjtN5QbQ&s",
+                "description": "According to Hindu mythology, Anjani Kund is the birthplace of Lord Hanuman. Surrounded by dense forests, this spiritual site is visited by devotees who seek blessings from the mighty deity."
+            },
+            {
+                "name": "Pandava Caves",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qHAlycmStmUsrmegagJ6Ttjis0yjsSNY_g&s",
+                "description": "Legend has it that the Pandavas from the Mahabharata stayed in these caves during their exile. Located near Saputara, the caves have historical significance and offer a serene and mystical experience."
+            },
+            {
+                "name": "Waghai Botanical Garden",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/flora--fauna/waghai-botanical-gardens/waghai-botnical-garden-banner.jpg",
+                "description": "A huge botanical garden near Waghai town, home to a wide variety of medicinal plants, rare trees, and orchids. It is an educational and scenic spot for nature lovers."
+            }
+        ]
+    },
+    "jamnagar": {
+        "name": "Jamnagar",
+        "tagline": "The Pearl City of Saurashtra",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/%E0%AA%9C%E0%AA%BE%E0%AA%AE%E0%AA%A8%E0%AA%97%E0%AA%B0_%E2%80%93_Jamnagar.svg",
+        "attractions": [
+            {
+                "name": "Lakhota Lake and Lakhota Palace",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNDNROoE8FSnbHCiC7bm50M3uuvB6JrnqZhQ&s",
+                "description": "Lakhota Lake is a serene water body in the heart of Jamnagar, surrounded by lush greenery. In the middle of the lake stands Lakhota Palace, built in the 18th century by the Jadeja rulers. The palace now houses a museum showcasing artifacts, pottery, and weapons used by the royal family."
+            },
+            {
+                "name": "Marine National Park",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvhnKD8L2KarNWs41ytF4hS51ILIpEam4jw&s",
+                "description": "India’s first marine sanctuary, located in the Gulf of Kutch near Jamnagar. The park is home to coral reefs, mangroves, and marine species like octopuses, dolphins, and jellyfish. During low tide, visitors can walk on the seabed and witness vibrant marine life up close."
+            },
+            {
+                "name": "Bala Hanuman Temple",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToirt6WdVRFgbJ2WN12vSeM10xvcHoG5DeuA&s",
+                "description": "Famous for its continuous chanting of the “Ram Dhun” since 1964, the Bala Hanuman Temple is listed in the Guinness Book of World Records. It is located on the banks of Lakhota Lake and draws devotees seeking blessings from Lord Hanuman."
+            },
+            {
+                "name": "Khijadiya Bird Sanctuary",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Black-necked_Stork_female_flyingAMSM6458.jpg",
+                "description": "A paradise for bird watchers, this sanctuary is home to over 300 species of migratory and resident birds. Located 12 km from Jamnagar, the sanctuary has both freshwater and saltwater ecosystems, making it an ideal habitat for diverse bird species."
+            },
+            {
+                "name": "Pratap Vilas Palace",
+                "image": "https://www.trawell.in/admin/images/upload/133167821Pratap_Vilas_Palace.jpg",
+                "description": "Built during the reign of Jam Ranjitsinhji in European architectural style, Pratap Vilas Palace features Indo-Saracenic design with exquisite carvings and intricate details. Though not open to the public, the grandeur of the palace can be admired from the outside."
+            },
+            {
+                "name": "Ranjit Sagar Dam (Randarda Lake) ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ranjit_Sagar_Dam_1.jpg",
+                "description": "A popular picnic spot located about 10 km from Jamnagar, the dam offers breathtaking views of the surrounding landscape. The lake attracts various bird species, making it a great spot for bird watching and photography."
+            },
+            {
+                "name": "Bhujiyo Kotho",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/june/Bhujiyo-Kotho-banner.jpg",
+                "description": "An ancient watchtower built to protect Jamnagar from invasions. The structure offers panoramic views of the city and Lakhota Lake. Its historical significance and architecture make it a popular attraction for tourists."
+            },
+            {
+                "name": "Jain Temples at Vardhman Shah Teerth",
+                "image": "https://im.hunt.in/cg/jamnagar/City-Guide/jain-temple.JPG",
+                "description": "A group of beautiful Jain temples built in the 17th century, known for their intricate marble carvings and stunning architecture. These temples attract Jain pilgrims and architecture enthusiasts alike."
+            },
+            {
+                "name": "Solarium (Ranjit Institute of Poly-Radio Therapy)",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ec/12/dc/solarium.jpg?w=400&h=400&s=1",
+                "description": "Built by the Jam Saheb of Jamnagar, this unique solarium is one of its kind in Asia. It uses natural sunlight to provide therapeutic treatments, making it a historical and medical marvel."
+            }
+        ]
+    },
+    "junagadh": {
+        "name": "Junagadh",
+        "tagline": "Where History Meets the Hills",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Junagadh_in_Gujarat_%28India%29.svg",
+        "attractions": [
+            {
+                "name": "Gir National Park and Wildlife Sanctuary",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Gir_lion-Gir_forest%2Cjunagadh%2Cgujarat%2Cindia.jpeg",
+                "description": "Famous as the last abode of the Asiatic lions, Gir National Park is a haven for wildlife enthusiasts. Spread across 1,400 square kilometers, it is home to leopards, hyenas, deer, and a variety of bird species. Jeep safaris offer an unforgettable experience of exploring the wilderness."
+            },
+            {
+                "name": "Uparkot Fort",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Gate_of_Uperkot_Fort_02.jpg",
+                "description": "An ancient fort built during the Mauryan Empire, dating back over 2,300 years. It is known for its massive walls, stepwells, and intricate architecture. The fort offers a panoramic view of the city and is a great place for history lovers."
+            },
+            {
+                "name": "Mahabat Maqbara",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Z1egPtbE7F9zH0fxr9wftiTKV3X86uHV8A&s",
+                "description": "A beautiful mausoleum built in Indo-Islamic and Gothic architectural styles, known for its intricate carvings and silver doors. It was built in the 19th century by Nawab Mahabat Khan II. The structure stands as a symbol of Junagadh’s rich cultural heritage."
+            },
+            {
+                "name": "Girnar Hill",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/religious-sites/girnar-hill,-pilgrimage-centre/Girnar-Hill,-Pilgrimage-Centre-Banner.jpg",
+                "description": "A sacred mountain for both Hindus and Jains, Girnar Hill is dotted with ancient temples and shrines. Climbing the 10,000 steps to reach the top is a spiritual journey, with breathtaking views awaiting visitors. The Ambaji Temple and Dattatreya Temple are major attractions."
+            },
+            {
+                "name": "Darbar Hall Museum",
+                "image": "https://hblimg.mmtcdn.com/content/hubble/img/ttd_images/mmt/activities/t_ufs/m_Junagadh_Darbar_hall_museum_1_l_480_640.jpg",
+                "description": "Located within the Narsinh Mehta Lake complex, this museum showcases royal artifacts, weapons, costumes, and palanquins of the Nawabs of Junagadh. The museum offers a glimpse into the regal lifestyle of the rulers of Junagadh."
+            },
+            {
+                "name": "Sakkarbaug Zoological Garden",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN1J7qCoBDDiUFjbGupDkgokx5i9_VlMEJBQ&s",
+                "description": "One of the oldest zoos in India, established in 1863, known for its Asiatic lion breeding program. The zoo is spread over a large area and also houses leopards, tigers, and other exotic animals, making it a great spot for family outings."
+            },
+            {
+                "name": "Ashoka’s Rock Edicts",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQpnVyPLSY1XAG2UVOFv4lhBg6DNHsGEVRw&s",
+                "description": "A historical site featuring inscriptions by Emperor Ashoka, dating back to 250 BCE. The edicts promote non-violence, morality, and religious tolerance. These ancient writings are a valuable part of India’s history and heritage."
+            },
+            {
+                "name": "Jama Masjid ",
+                "image": "https://www.tourmyindia.com/images/jama-masjid-junagadh1.jpg",
+                "description": "Located inside Uparkot Fort, this mosque was built during the reign of Mahmud Begada. The mosque is known for its stunning arches and intricate stone carvings that reflect Indo-Islamic architectural beauty."
+            },
+            {
+                "name": "Moti Baug",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/flora--fauna/moti-baug/gallery/Moti%20Baug%20(1).jpg",
+                "description": "A lush green garden that was once the private garden of the Nawabs of Junagadh. It is now open to the public and serves as a peaceful retreat for nature lovers and fitness enthusiasts."
+            },
+            {
+                "name": "Damodar Kund",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8YGzbCeX1YnyxLiZhSUPByBEL02tPa6U3dw&s",
+                "description": "A sacred water reservoir located at the foothills of Girnar. It is believed that a dip in this holy kund washes away sins. Pilgrims often visit this site before starting their ascent of Girnar Hill."
+            },
+            {
+                "name": "Bhavnath Mahadev Temple",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/4a/62/8b/bhavnath-mahadev-temple.jpg?w=900&h=500&s=1",
+                "description": "A serene temple dedicated to Lord Shiva, located in the lap of nature near Mahisagar. The temple is a spiritual retreat and a peaceful spot for devotees seeking tranquility."
+            }
+        ]
+    },
+    "kachchh": {
+        "name": "Kachchh",
+        "tagline": "White Desert, Colorful Soul",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/2/24/Kutch_in_Gujarat_%28India%29.svg",
+        "attractions": [
+            {
+                "name": "Great Rann of Kutch",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/weekend-get-aways/great-rann-of-kutch/gallery/Great%20Rann%20Of%20Kutch%20(3).jpg",
+                "description": "One of the world’s largest salt deserts, the Great Rann of Kutch is famous for its vast white landscape. The best time to visit is during the Rann Utsav, a festival celebrating local culture, music, dance, and handicrafts. The full moon night view of the Rann is breathtaking."
+            },
+            {
+                "name": "Kalo Dungar (Black Hill)",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/religious-sites/kalo-dungar/Kalo-Dungar-Banner.jpg",
+                "description": "The highest point in Kutch, Kalo Dungar offers panoramic views of the Great Rann of Kutch. The hill also has the famous Dattatreya Temple, where legend says jackals have been fed for centuries by the temple priests."
+            },
+            {
+                "name": "Vijay Vilas Palace",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrpQn0qUF7Q_TRTIahlouwwB366rAkS53a9g&s",
+                "description": "A beautiful royal palace in Mandvi, built by the Jadeja rulers of Kutch. The Rajput-style architecture, stunning gardens, and private beach make it a must-visit historical site. Bollywood movies like Hum Dil De Chuke Sanam were shot here."
+            },
+            {
+                "name": "Mandvi Beach",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Mandvi_Beach.jpg",
+                "description": "A serene and less crowded golden-sand beach located near Vijay Vilas Palace. It is famous for camel rides, water sports, and breathtaking sunsets. The beach also has the Shyamji Krishna Varma Memorial, dedicated to the freedom fighter."
+            },
+            {
+                "name": "Aina Mahal (Mirror Palace), Bhuj ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Damaged_Ainamahal_Bhuj_Kutch_Gujarat.jpg",
+                "description": "Built in the 18th century, Aina Mahal is an exquisite mirror palace with Indo-European architecture. The palace was partially damaged during the 2001 earthquake, but its glasswork, chandeliers, and antique collections still attract visitors."
+            },
+            {
+                "name": "Prag Mahal, Bhuj",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Clock_Tower_Pragmahal_Bhuj_Kutch_Gujarat.jpg",
+                "description": "Located next to Aina Mahal, Prag Mahal is a European-style palace built in the 19th century. It has a massive clock tower and offers panoramic views of Bhuj city from the top."
+            },
+            {
+                "name": "Kutch Museum, Bhuj",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/museums/kutch-museum/Kutch-Museum-Banner.jpg",
+                "description": "The oldest museum in Gujarat, showcasing Kutch’s tribal culture, ancient coins, textiles, and weaponry. It has a rare collection of Kshatrapa inscriptions, one of the earliest known scripts in Gujarat."
+            },
+            {
+                "name": "Mata no Madh",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Ashapura_Mata_Tempe%2C_Matano_Madh%2C_Kachchh.jpg",
+                "description": "A famous temple dedicated to Maa Ashapura, the Kuldevi of Kutch rulers. The temple attracts thousands of devotees, especially during Navratri."
+            },
+            {
+                "name": "Narayan Sarovar and Koteshwar Mahadev Temple",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Koteshwar_temple_2014-01-27_13-26.jpg/1200px-Koteshwar_temple_2014-01-27_13-26.jpg",
+                "description": "Narayan Sarovar is one of the five holy lakes in Hinduism and an important pilgrimage site. Nearby, Koteshwar Mahadev Temple is a centuries-old Lord Shiva temple located by the Arabian Sea, offering stunning sunset views."
+            },
+            {
+                "name": "Dholavira (Harappan Civilization Site)",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/indus-valley-civilization-sites/dholavira/Dholavira-Banner.jpg",
+                "description": "A UNESCO World Heritage Site, Dholavira is an ancient Indus Valley Civilization city dating back 4,500 years. The site features advanced drainage systems, reservoirs, and a well-planned urban layout."
+            },
+            {
+                "name": "Lakhpat Fort",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/heritage-sites/lakhpat-fort/Lakhpat-Fort-Banner1.jpg",
+                "description": "A historical fort town on the India-Pakistan border, Lakhpat was once a prosperous port city. The massive fort walls, old gurudwara, and ruins of ancient houses make it a unique attraction."
+            },
+            {
+                "name": "Jesal-Toral Samadhi, Anjar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpOI7OwThQEEWEOnAlZF6gk9TC7diXtfjuGg&s",
+                "description": "A tomb dedicated to Jesal (a bandit) and Toral (a saint), symbolizing the transformation of a fearsome warrior into a saintly devotee."
+            },
+            {
+                "name": "Bhadreshwar Jain Temple",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Kutch_Bhadreshwar_Jain_Temple.jpg",
+                "description": "One of the oldest Jain temples in India, dating back 2,500 years. The temple features beautiful marble carvings and intricate architecture."
+            }
+        ]
+    },
+    "mahisagar": {
+        "name": "Mahisagar",
+        "tagline": "Where History Echoes Along the Mahi",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mahisagar_in_Gujarat_%28India%29.svg/250px-Mahisagar_in_Gujarat_%28India%29.svg.png",
+        "attractions": [
+            {
+                "name": "Pavagadh Hill and Kalika Mata Temple",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwn5B78JSphl3S32nVswhb3vhWsF9iFqZtA&s",
+                "description": "A UNESCO World Heritage Site, Pavagadh Hill is home to the famous Kalika Mata Temple, one of the 51 Shakti Peethas. Located at an altitude of about 800 meters, the temple attracts thousands of devotees, especially during Navratri. A ropeway ride is available to reach the temple, offering scenic views of the surrounding landscape."
+            },
+            {
+                "name": "Champaner-Pavagadh Archaeological Park",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/june/Citadel-sat-kaman-banner(1).jpg",
+                "description": "A UNESCO World Heritage Site, this archaeological park showcases the remains of the medieval capital of Gujarat. It includes ancient mosques, stepwells, forts, and palaces built during the reign of Mahmud Begada in the 15th century. Notable sites include Jama Masjid, Kevada Mosque, and Saher ki Masjid."
+            },
+            {
+                "name": "Jambughoda Wildlife Sanctuary",
+                "image": "https://i0.wp.com/currylines.com/wp-content/uploads/2019/10/IMG_20190922_162755-1.jpg?ssl=1",
+                "description": "Located near Mahisagar, this sanctuary is home to leopards, sloth bears, and various species of birds. The dense forest and serene environment make it an excellent spot for nature lovers and wildlife enthusiasts. Trekking and eco-tourism activities are popular here."
+            },
+            {
+                "name": "Galteshwar Mahadev Temple",
+                "image": "https://i.pinimg.com/736x/f9/e2/59/f9e259f8e498b6644f0724773f324c8a.jpg",
+                "description": "An ancient temple dedicated to Lord Shiva, located on the banks of the Mahi River. The temple features intricate carvings and sculptures that date back to the Solanki period. Pilgrims visit the temple, especially during Shivratri, to seek blessings."
+            },
+            {
+                "name": "Kadana Dam",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/8b/1f/86/kadana-dam.jpg?w=1200&h=-1&s=1",
+                "description": "Built on the Mahi River, Kadana Dam is a perfect spot for picnics and weekend getaways. The scenic views of the reservoir and the surrounding greenery make it an ideal destination for nature lovers and photography enthusiasts."
+            },
+            {
+                "name": "Mahisagar River",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/MAHI_RAILWAY_BRIDGE_SEVALIYA-5.jpg",
+                "description": "The Mahisagar River flows through the district, providing beautiful landscapes and peaceful surroundings. It serves as an important water source for the region and offers scenic beauty, making it a great spot for relaxation."
+            },
+            {
+                "name": "Navlakha Kothar",
+                "image": "https://cdn.s3waas.gov.in/s36f2268bd1d3d3ebaabb04d6b5d099425/uploads/bfi_thumb/2018100624-olw9cd4eb52lj205lta380tzvyjoygi95mxg9qj9u2.jpg",
+                "description": "Located near Pavagadh, Navlakha Kothar is an ancient storage facility used during the medieval period. The structure reflects the architectural expertise of the time and serves as a historical site for visitors to explore."
+            },
+            {
+                "name": "Kaleshwari Group of Monuments",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Restored_Hindu_Shrine_at_Kaleshwari%2C_Gujarat%2C_India.jpg/220px-Restored_Hindu_Shrine_at_Kaleshwari%2C_Gujarat%2C_India.jpg",
+                "description": "A lesser-known heritage site near Mahisagar, this group of monuments includes ancient stepwells, temples, and ruins dating back to the 14th century. The intricate carvings and historical significance make it a fascinating site for history buffs."
+            }
+        ]
+    },
+    "morbi": {
+        "name": "Morbi",
+        "tagline": "Ceramic Capital of India",
+        "mainImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2jaFitESlGH532AXhUkVObXfoEKzfVKhGqbr-dtWhXacEL5OgFpCjOiTTPRLcQngjkDbbokAIDaz26ELPYQ_49sa0G04y9S6DxHvuWurg93VsrTtQ3sX-9uCfZddt02LqiJzUnOvtc2LoLhCH_TuMZcGuys9ILKt3uYfFP6PimftuB_dEK_cph0/s500/Morbi_in_Gujarat(India).svg.png",
+        "attractions": [
+            {
+                "name": "Mani Mandir",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bjEjCMu5Jdx5oW7ftC_Q8cPkOWlmL0TIIw&s",
+                "description": "One of Morbi’s most beautiful architectural landmarks, Mani Mandir was built by Waghji Thakor in memory of his queen, Mani Bai. The temple is a masterpiece of Rajasthani and European architecture, with intricate carvings, jharokhas, and detailed stonework."
+            },
+            {
+                "name": "Wellingdon Secretariat (Jubilee Building)",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgC-3th57tZhLARTohO023izXqwuXdE_BM-A&s",
+                "description": "A grand colonial-era building constructed during the reign of Sir Waghji Thakor, this structure features Romanesque arches, clock towers, and decorative domes. It once served as the administrative headquarters of Morbi."
+            },
+            {
+                "name": "Hanging Bridge (Jhulta Pul)",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hanging_Bridge_from_Opposite_Side_Morbi_-panoramio.jpg/640px-Hanging_Bridge_from_Opposite_Side_Morbi-_panoramio.jpg",
+                "description": "Built in the late 19th century, this suspension bridge over the Machchhu River is an engineering marvel of its time. It was inspired by London’s Albert Bridge and remains a significant tourist attraction."
+            },
+            {
+                "name": "Darbargadh Palace",
+                "image": "https://morbimitra.com/wp-content/uploads/2022/05/a-fountain-bubbling-in.jpg",
+                "description": "This royal palace was the residence of the Jadeja rulers of Morbi. It showcases a mix of Italian, Rajput, and Gothic architecture. The palace complex includes stunning carved pillars, courtyards, and Durbar Hall."
+            },
+            {
+                "name": " Nehru Gate ",
+                "image": "https://d34vm3j4h7f97z.cloudfront.net/original/3X/9/1/91cb6f3498cb68e9266414b622993a9b3121957b.jpeg",
+                "description": "A beautifully designed entrance gate built in honor of Pandit Jawaharlal Nehru, this structure features a unique Rajput-style design and is a historical monument in Morbi."
+            },
+            {
+                "name": "Morbi Railway Station",
+                "image": "https://pbs.twimg.com/media/GEyJRYoWAAAKuHH.jpg",
+                "description": "A unique railway station built with European-style architecture, featuring Gothic arches and domes. It is one of the most beautiful railway stations in India, reflecting Morbi’s rich history."
+            },
+            {
+                "name": "Trimandir, Morbi",
+                "image": "https://www.trimandir.org/media/k5apbcfe/morbi-trimandir.jpg",
+                "description": "A peaceful temple dedicated to Lord Vishnu, Lord Shiva, and Lord Mahavir, Trimandir is known for its spiritual environment and grand architecture. The temple promotes harmony between different faiths."
+            },
+            {
+                "name": "Rafaleshwar Mahadev Temple",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3NysVitaJdUNCASOCkPYcpAygSSQQS6OrQ&s",
+                "description": "A Lord Shiva temple located on the outskirts of Morbi, this site is popular for Mahashivratri celebrations and attracts a large number of devotees throughout the year."
+            },
+            {
+                "name": "Ceramic Industry Tour",
+                "image": "https://www.vibesofindia.com/wp-content/uploads/2024/05/169881567521_1824_139271.jpg",
+                "description": "Morbi is India’s leading ceramic hub, producing tiles, sanitaryware, and vitrified ceramics. Many visitors take guided tours of Morbi’s ceramic factories to see the manufacturing process."
+            },
+            {
+                "name": "Machchhu Dam",
+                "image": "https://bombaysamachar.com/wp-content/uploads/2024/05/yogesh-d-2024-05-12T104441.164.jpg",
+                "description": "Built on the Machchhu River, this dam provides water supply and irrigation to the region. It is also a popular picnic spot, offering scenic views of the surrounding landscape."
+            },
+            {
+                "name": "Jadeshwar Mahadev Temple",
+                "image": "https://images.bhaskarassets.com/thumb/1200x900/web2images/960/2024/08/05/559bb439-92a8-4773-901f-010856adcd0c_1722867439605.jpg",
+                "description": "A historic Lord Shiva temple situated amidst lush greenery. The temple is known for its tranquil atmosphere and spiritual significance."
+            }
+        ]
+    },
+    "patan": {
+        "name": "Patan",
+        "tagline": "Home of the Timeless Rani ki Vav",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Gujarat_Patan_district.png",
+        "attractions": [
+            {
+                "name": "Rani ki Vav (Queen’s Stepwell)",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Rani_ki_vav_02.jpg",
+                "description": "A UNESCO World Heritage Site, Rani ki Vav is one of the most stunning stepwells in India, built in the 11th century by Queen Udayamati in memory of King Bhimdev I. It features intricate sculptures and seven levels of steps, showcasing the Maru-Gurjara architectural style."
+            },
+            {
+                "name": "Sahastralinga Talav",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sahasralinga_Talav.jpg",
+                "description": "This ancient artificial water tank was built during the Solanki dynasty and is connected to the Saraswati River. It once had a thousand Shiva lingas, and although many have eroded over time, the site remains a sacred and historical landmark."
+            },
+            {
+                "name": "Patan Patola Heritage Museum",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/museums/patan-patola-heritage-museum/Patan-Patola-Heritage-Museum-Thumbnail.jpg",
+                "description": "This museum celebrates the traditional art of Patola weaving, a unique double ikat silk textile technique for which Patan is globally renowned. The museum showcases the history, tools, and live demos of this centuries-old craft."
+            },
+            {
+                "name": "Panchasara Parshwanath Jain Derasar",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/d8/bf/b3/caption.jpg?w=1200&h=1200&s=1",
+                "description": "One of the most important Jain temples in Patan, this temple is dedicated to Lord Parshwanath. Built with white marble, the temple features fine carvings and a peaceful aura, attracting both devotees and tourists."
+            },
+            {
+                "name": "Kankavati Garden",
+                "image": "https://content.jdmagicbox.com/comp/dhrangadhra/k5/9999p2752.2752.231024165830.f6k5/catalogue/satapar-garden-dhrangadhra-parks-6xc81c3i1h.jpg?clr=",
+                "description": "A serene park and garden area ideal for family outings and evening walks. It is well-maintained and offers a peaceful break within the city."
+            },
+            {
+                "name": "Hemchandracharya Jain Gyan Mandir Library",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Exterior_of_the_Hemchandracharya_Jain_Library_Patan_Gujarat_India_01.jpg/640px-Exterior_of_the_Hemchandracharya_Jain_Library_Patan_Gujarat_India_01.jpg",
+                "description": "One of the most prestigious manuscript libraries in Gujarat, it houses ancient Jain scriptures, palm-leaf manuscripts, and rare books in Sanskrit, Prakrit, and Gujarati. A must-visit for literature and history enthusiasts."
+            },
+            {
+                "name": "Khan Sarovar",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQJlzBI6LZHB6ewpCwruwQqwxKdzjJEprCg&s",
+                "description": "A historical lake that once served as a water reservoir during the Solanki era. It offers scenic views and is often visited for picnics and nature walks."
+            },
+            {
+                "name": "Rani ki Vav Art Gallery (near stepwell)",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6bloFKvQ4jY59mNQP4XivYZ2RyuI9rzxXmUHUnpBS7-8n1coutamhglxy1DknxZN7-_I&usqp=CAU",
+                "description": "Adjacent to the stepwell, this small art space displays replicas, paintings, and historical narratives related to the Solanki dynasty and stepwell culture in Gujarat."
+            },
+            {
+                "name": "Ruins of Anahilpur Patan",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Rudra_Mahalaya_Temple_in_Siddhpur_02.jpg/250px-Rudra_Mahalaya_Temple_in_Siddhpur_02.jpg",
+                "description": "Patan was once the capital of the Solanki dynasty and known as Anahilvada Patan. Remnants of fort walls, gates, and ancient temples around the city reflect its glorious past."
+            },
+            {
+                "name": "Hemchandracharya North Gujarat University Campus",
+                "image": "https://images.shiksha.com/mediadata/images/1607882952phpaeKwH5.png",
+                "description": "While primarily an academic space, the university often hosts cultural exhibitions, seminars, and local fairs celebrating Patan’s heritage and crafts."
+            },
+            {
+                "name": "Swaminarayan Temple, Patan",
+                "image": "https://www.smvs.org/images/Patan/sub_large/patan_2.JPG",
+                "description": "A modern temple with beautiful architecture and peaceful surroundings, this temple is part of the Swaminarayan Sampraday and is visited by many devotees."
+            }
+        ]
+    },
+    "surat": {
+        "name": "Surat",
+        "tagline": "Diamond City with a Sparkling Spirit",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Surat_in_Gujarat_%28India%29.svg/960px-Surat_in_Gujarat_%28India%29.svg.png",
+        "attractions": [
+            {
+                "name": "Dumas Beach",
+                "image": "https://surattourism.in/images//tourist-places/dumas-beach-surat/dumas-beach-surat-tourism-holidays-closed-on-timings.jpg",
+                "description": "A popular tourist destination known for its black sand and scenic views of the Arabian Sea. It’s a perfect place for a peaceful evening walk and enjoying street food. The beach is also known for its spooky stories, making it intriguing for adventure seekers."
+            },
+            {
+                "name": "Surat Castle (Old Fort)",
+                "image": "https://www.suratmunicipal.gov.in/Images/Services/SuratFort/Slider/HomePage/Slider0-2.jpg",
+                "description": "Built in the 16th century by Sultan Mahmud III to defend the city from Portuguese attacks. The fort is a testimony to the city's rich history and offers a glimpse into the architectural skills of that era. It stands on the banks of the Tapi River, adding to its charm."
+            },
+            {
+                "name": "Sarthana Nature Park and Zoo",
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/8a/a3/88/sarthana-national-park.jpg",
+                "description": "Spread over 81 acres, this zoo is home to a variety of animals, birds, and reptiles. It’s a great place for families and nature lovers. The park also focuses on conservation and breeding programs for endangered species."
+            },
+            {
+                "name": "Gopi Talav",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Gopi_Talav_5.jpg",
+                "description": "A historical lake built by Malik Gopi in the 16th century, reflecting the city’s architectural grandeur. Recently renovated, it now features boating facilities, gardens, and entertainment options, making it a popular recreational spot."
+            },
+            {
+                "name": "Dutch Garden",
+                "image": "https://surattourism.in/images/places-to-visit/header/dutch-garden-surat-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+                "description": "A beautifully maintained garden that houses the tombs of Dutch and British officials. It offers a peaceful environment with lush greenery and is a favorite for morning and evening strolls."
+            },
+            {
+                "name": "Science Centre",
+                "image": "https://surattourism.in/images/places-to-visit/header/science-centre-surat-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+                "description": "A modern educational facility that includes a planetarium, museum, and an art gallery. The center aims to promote scientific curiosity among visitors, especially children. Interactive exhibits make learning fun and engaging."
+            },
+            {
+                "name": "ISKCON Temple",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/fb/30/3e/iskcon-temple.jpg?w=1200&h=-1&s=1",
+                "description": "A serene temple dedicated to Lord Krishna, providing a peaceful environment for spiritual seekers. The temple attracts devotees and tourists alike with its vibrant celebrations and bhajans."
+            },
+            {
+                "name": "Sardar Patel Museum",
+                "image": "https://avathioutdoors.gumlet.io/travelGuide/dev/surat_P9108.jpg?format=webp&w=600&dpr=2.6",
+                "description": "A museum dedicated to the life and contributions of Sardar Vallabhbhai Patel, showcasing artifacts, photographs, and documents related to his life. It’s an important place for history enthusiasts and those interested in India’s freedom struggle."
+            },
+            {
+                "name": "Surat Diamond Bourse",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Surat_Diamond_Bourse_Aerial_View.jpg",
+                "description": "An informative bourse that provides insights into the diamond industry of Surat. Visitors can learn about the diamond cutting and polishing process, making it a unique experience for those interested in gems and jewelry."
+            }
+        ]
+    },
+    "surendranagar": {
+        "name": "Surendranagar",
+        "tagline": "Heartland of Textiles and Talents",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Surendranagar_in_Gujarat_%28India%29.svg/250px-Surendranagar_in_Gujarat_%28India%29.svg.png",
+        "attractions": [
+            {
+                "name": "Dholidhaja Dam",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dholi_Dhaja_Dam_Gate_-_panoramio.jpg",
+                "description": "Located near Surendranagar city, Dholidhaja Dam is a popular spot for picnics and bird watching. The dam provides irrigation to nearby villages and offers scenic views of the reservoir, making it an ideal getaway for nature lovers."
+            },
+            {
+                "name": "Chotila Hill and Chamunda Mata Temple",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Chotila_-Chamunda_Devi_Temple%2C_Gujarat-India%283417734864%29.jpg",
+                "description": "Situated atop Chotila Hill, Chamunda Mata Temple is dedicated to Goddess Chamunda. Devotees climb over 700 steps to reach the temple and seek blessings. The hill provides a panoramic view of the surrounding landscape, making it a popular pilgrimage destination."
+            },
+            {
+                "name": "Wadhwan City (Heritage Site)",
+                "image": "https://cdn.s3waas.gov.in/s3c15da1f2b5e5ed6e6837a3802f0d1593/uploads/bfi_thumb/2018080154-olwbyczdqpquj9gwqfz0kaxef392otny2vhfxv5zm2.jpg",
+                "description": "Wadhwan is an ancient city known for its rich heritage and architectural marvels. It was a prominent center for trade and culture during the Solanki dynasty."
+            },
+            {
+                "name": "Trineteshwar Temple, Tarnetar ",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Trinetreshwar_Temple.jpg",
+                "description": "Located near Surendranagar, Trineteshwar Temple is dedicated to Lord Shiva and is famous for the annual Tarnetar Fair, which attracts visitors from across Gujarat. The temple’s serene surroundings and spiritual significance draw many devotees."
+            },
+            {
+                "name": " Tarnetar Fair",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/fairs-&-festivals/tarnetar-fair/Tarnetar-Fair-Banner.jpg",
+                "description": "Held annually at the Trineteshwar Temple, Tarnetar Fair is a vibrant cultural extravaganza known for its traditional folk dances, music, and colorful costumes. The fair also serves as a matchmaking event for tribal communities."
+            },
+            {
+                "name": "Sayla Palace",
+                "image": "https://www.gujarattourism.com/content/gujrattourism/en/accommodation/heritage-hotel/bell-guest-house--sayla/_jcr_content/root/responsivegrid/tourbanner.coreimg.jpeg/1594793330114/bell-guest-house-banner.jpeg",
+                "description": "A heritage property located in the Sayla region, Sayla Palace offers a glimpse into the royal lifestyle. The palace is known for its colonial-style architecture, lush gardens, and luxurious ambiance. It has now been converted into a heritage hotel."
+            },
+            {
+                "name": "Muli Fort and Temples",
+                "image": "https://www.tripnight.com/public/thumbs/monuments/6587/ZgWla4RSLKOA_468_738.jpg",
+                "description": "Muli Fort, built by the Parmar rulers, stands as a symbol of valor and architectural brilliance. The fort houses beautifully carved temples, : Swaminarayan Temple – Known for its stunning marble work and spiritual significance. Ranchhodji Temple – A serene spot for worship and meditation."
+            },
+            {
+                "name": "Wild Ass Sanctuary (Little Rann of Kutch)",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/flora--fauna/wild-ass-sanctuary/Wild-Ass-Sanctuary-Banner.jpg",
+                "description": "Part of the Little Rann of Kutch, this sanctuary is home to the endangered Indian Wild Ass (Ghudkhur). It is also a paradise for bird watchers, hosting migratory birds such as flamingos, pelicans, and cranes during the winter season."
+            },
+            {
+                "name": "Jain Temples at Wadhwan",
+                "image": "https://content.jdmagicbox.com/comp/surendra-nagar-gujarat/i9/9999p2752.2752.190228154719.t3i9/catalogue/vinay-vatika-jain-temple-surendra-nagar-gujarat-jain-temples-0aj84dihys.jpg?clr=",
+                "description": "Wadhwan is home to several ancient Jain temples, known for their intricate marble carvings and spiritual importance. These temples attract Jain pilgrims and architecture enthusiasts alike."
+            },
+            {
+                "name": "Surendranagar Clock Tower",
+                "image": "https://surendranagar.wordpress.com/wp-content/uploads/2011/12/dsc01371.jpg",
+                "description": "A landmark in the heart of Surendranagar city, the Clock Tower is a symbol of the city’s colonial past. It serves as a popular meeting point and a reminder of the region’s historical legacy."
+            }
+        ]
+    },
+    "tapi": {
+        "name": "Tapi",
+        "tagline": "Serene by Nature, Rich in Culture",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Gujarat_Tapi_district_locator_map.png",
+        "attractions": [
+            {
+                "name": "Ukai Dam (Vallabh Sagar)",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ukai_Dam_-_DSC04481.jpg",
+                "description": "Ukai Dam is the second-largest reservoir in Gujarat, built on the Tapti River. It is not just crucial for irrigation and hydroelectric power but is also a scenic picnic spot. The dam's massive water body and surrounding greenery attract nature lovers and photographers."
+            },
+            {
+                "name": "Vansda National Park (partly in Tapi district)",
+                "image": "https://forests.gujarat.gov.in/writereaddata/images/vansada-1-big.jpg",
+                "description": "Located near the Dang-Tapi border, this lush forested park is home to leopards, deer, hyenas, and a variety of birds and reptiles. It offers trekking, eco-tourism activities, and is a haven for wildlife and nature enthusiasts."
+            },
+            {
+                "name": "Gaumukh Temple, Vyara",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c6/96/88/galteshwar-mahadev-mandir.jpg?w=400&h=300&s=1",
+                "description": "This temple is nestled near a small waterfall and surrounded by forests, giving it a serene and spiritual ambiance. The temple is dedicated to Lord Shiva, and the natural spring is considered sacred by devotees."
+            },
+            {
+                "name": "Unai Mata Temple & Hot Water Springs",
+                "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/14/af/fc/unai-temple.jpg?w=1200&h=1200&s=1",
+                "description": "A famous temple of Goddess Unai Mata, believed to be visited by Lord Rama. The hot water springs here are rich in minerals and believed to have healing properties. It's a well-known religious and health tourism spot."
+            },
+            {
+                "name": "Padamdungari Eco Tourism Site",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/-flora---fauna/padam-dungri-eco-tourism/Padam-Dungri-Eco-Tourism2.jpg",
+                "description": "Located near the Ukai Dam, this is a developed eco-tourism campsite with cottages and tents. It offers tribal village tours, forest treks, and river views, making it perfect for adventure and cultural experiences."
+            },
+            {
+                "name": "Songadh Fort (Historical Site)",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Gayakwadi_fort_tapi_river_06.jpg",
+                "description": "Built by the Marathas, this hilltop fort offers panoramic views of the Surat-Tapi region. Although in ruins, the fort holds historical value and is a great trekking spot for those interested in history and nature."
+            },
+            {
+                "name": "Kakrapar Garden and Hydel Power Station",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kakrapar_Atomic_Power_Plant.jpg/1200px-Kakrapar_Atomic_Power_Plant.jpg",
+                "description": "Located near the Kakrapar Atomic Power Plant, the surrounding garden area is clean and peaceful, offering a relaxing place for visitors. Though access to the power station is restricted, the public areas are open for eco-visits."
+            },
+            {
+                "name": "Forest Rest Houses & Nature Trails",
+                "image": "https://padamdungari.in/wp-content/uploads/2023/11/pADAM-STAYS.jpeg",
+                "description": "Tapi district is rich in forest areas, and forest department rest houses near Songadh and Vyara offer nature trails, wildlife spotting, and eco-lodging experiences."
+            },
+            {
+                "name": "Tribal Art and Culture (Local Experience)",
+                "image": "https://www.artsindia.com/cdn/shop/articles/Tribal_Art.png?v=1677680272",
+                "description": "Tapi is home to tribal communities like the Gamit, Chaudhari, and Vasava, known for their distinct art, music, dance, and handicrafts. Local fairs and tribal art exhibitions often take place in Vyara and Songadh."
+            }
+        ]
+    },
+    "panchmahals": {
+        "name": "Panchmahal",
+        "tagline": "lend of Hills, Heritage, and Harmony",
+        "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Panchmahal_in_Gujarat_%28India%29.svg/1024px-Panchmahal_in_Gujarat_%28India%29.svg.png",
+        "attractions": [
+            {
+                "name": "Hathni Mata Waterfall",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9pnZwqaX-ekMW7D9Dt3x3Iw9RnHhaFpl2Rg&s",
+                "description": "A beautiful seasonal waterfall surrounded by lush greenery, located near Pavagadh. A small temple dedicated to Hathni Mata (an avatar of Goddess Durga) lies in a cave near the falls. A popular picnic and monsoon trek spot."
+            },
+            {
+                "name": "Pavagadh Hill & Kalika Mata Temple",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qnf_DWskPYB_7wTxmhdb6IgEHNfpJVbGxg&s",
+                "description": "One of the Shakti Peethas, this temple sits atop Pavagadh Hill, attracting lakhs of pilgrims, especially during Navratri. The scenic ropeway ride to the top offers stunning views of the forest and plains."
+            },
+            {
+                "name": "Navlakha Kothar",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Navlakha_Kothar_ASI_GJ_115.jpg/1200px-Navlakha_Kothar_ASI_GJ_115.jpg",
+                "description": "A lesser-known yet architecturally intriguing site consisting of granaries and storehouses built by the rulers of Champaner. These structures show the ancient kingdom's planning and economic strength."
+            },
+            {
+                "name": "Kaleshwari Group of Monuments",
+                "image": "https://www.gosahin.com/go/p/k/1638617924_kaleshwari-group-of-monuments-temples.jpg",
+                "description": "Located near Lavana village, these ancient structures include temples, stepwells, and ruins. They are believed to be associated with the Mahabharata legend of the Pandavas and offer a peaceful historic setting."
+            },
+            {
+                "name": "Tribal Museum, Devgadh Baria (nearby)",
+                "image": "https://trti.gujarat.gov.in/assets/images/Mesume_info_image.png",
+                "description": "Though technically close to Dahod, it showcases the tribal heritage of Panchmahal and surrounding districts, including costumes, tools, and rituals of tribes like Bhil and Rathwa."
+            },
+            {
+                "name": "Jambughoda Wildlife Sanctuary",
+                "image": "https://www.gujarattourism.com/content/dam/gujrattourism/images/june/Jambughoda-Wildlife-Sanctuary.jpg",
+                "description": "Rich in biodiversity, hills, and tribal settlements, this sanctuary is a hotspot for trekking, eco-tourism, and spotting leopards, hyenas, and various birds. Lodges and camping are available inside."
+            },
+            {
+                "name": "Local Village Art and Tribal Culture",
+                "image": "https://thrillingtravel.in/wp-content/uploads/2023/02/Pithora-paintings-panchmahal.jpg",
+                "description": "Panchmahal is home to several tribal communities like the Bhil and Rathwa, known for their Pithora paintings, dance forms, and festivals. The tribal fairs held here are colorful and full of cultural vibrance."
+            },
+            {
+                "name": "Ratanmahal Sloth Bear Sanctuary",
+                "image": "https://www.seawatersports.com/images/places/ratanmahal-bear-sanctuary.png",
+                "description": "Located near Devgadh Baria (on the Panchmahal-Dahod border), this sanctuary is known for its sloth bear population, along with leopards, civets, and various bird species. It’s ideal for eco-tourism and nature lovers."
             }
         ]
     }

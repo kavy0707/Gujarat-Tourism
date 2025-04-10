@@ -18,8 +18,7 @@ function Signup() {
     };
 
     const handleSubmit = async (e) => {
-        e.preventDefault();  // ✅ Prevent form reload
-
+        e.preventDefault();
         try {
             const response = await fetch("http://localhost:3000/api/auth/createuser", {
                 method: "POST",
@@ -28,7 +27,7 @@ function Signup() {
                 },
                 body: JSON.stringify({
                     Firstname: credential.Firstname,
-                    Lastname: credential.Lastname,  // ✅ Fixed typo
+                    Lastname: credential.Lastname,
                     Number: credential.Number,
                     email: credential.email,
                     Username: credential.Username,
@@ -54,31 +53,44 @@ function Signup() {
 
     return (
         <div className="signupPage">
-            <div className="overlay">
-                <form id="signupForm" onSubmit={handleSubmit}>
-                    <div className="con">
-                        <header className="headForm">
-                            <h2>Sign-up</h2>
-                        </header>
+            <form id="signupForm" onSubmit={handleSubmit}>
+                <div className="con">
+                    <header className="headForm">
+                        <h2>Sign-up</h2>
+                    </header>
 
-                        <div className="fieldSet" id="fieldset">
-                            <span className="formInput" id="formInput">
-                                <i className="fa fa-user-circle"></i>
-                            </span>
-                            <input className="formInput" id="Firstname" name="Firstname" type="text" placeholder="Firstname" onChange={onchange} required />
-                            <input className="formInput" id="Lastname" name="Lastname" type="text" placeholder="Lastname" onChange={onchange} required />
-                            <input className="formInput" id="Number" name="Number" type="text" placeholder="Phone number" onChange={onchange} required />
-                            <input className="formInput" id="Email" name="email" type="text" placeholder="Email" onChange={onchange} required />
-                            <input className="formInput" id="Username" name="Username" type="text" placeholder="@UserName" onChange={onchange} required />
-                            <input className="formInput" type="password" placeholder="Password" id="Password" name="password" onChange={onchange} required />
+                    <div className="fieldSet" id="fieldset">
+                        <span className="formInput" id="formInput">
+                            <i className="fa fa-user-circle"></i>
+                        </span>
+                        <input className="formInput" id="Firstname" name="Firstname" type="text" placeholder="Firstname"
+                            onChange={onchange} required />
+                        <input className="formInput" id="Lastname" name="Lastname" type="text" placeholder="Lastname"
+                            onChange={onchange} required />
+                        <input className="formInput" id="Number" name="Number" type="text" placeholder="Phone number"
+                            onChange={onchange} required />
+                        <input className="formInput" id="Email" name="email" type="text" placeholder="Email"
+                            onChange={onchange} required />
+                        <input className="formInput" id="Username" name="Username" type="text" placeholder="@UserName"
+                            onChange={onchange} required />
+                        <input className="formInput" type="password" placeholder="Password" id="Password"
+                            name="password" onChange={onchange} required />
 
-                            <button type="submit" id="signupBtn" className="signUpBtn">Sign-up</button>
-                        </div>
+                        <button type="submit" id="signupBtn" className="signUpBtn">Sign-up</button>
                     </div>
-                </form>
-            </div>
+                </div>
+            </form>
         </div>
     );
 }
 
 export default Signup;
+
+
+
+
+
+
+
+
+

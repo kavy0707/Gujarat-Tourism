@@ -9,13 +9,13 @@
 }
 
 .signupPage {
-    background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
-    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    font-family: 'Vibur', cursive;
-    font-family: 'Abel', sans-serif;
-    opacity: .95;
+    background: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%) !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+    height: auto !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
 }
 
 
@@ -43,13 +43,25 @@
 
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
-
     margin: 0 auto;
+}
+
+header.headForm {
+    height: 91px;
+    background: linear-gradient(to right, #ffe3e3, #fff);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #ccc;
+    padding: 0;
+    margin: 2% auto 10% 98px;
+    text-align: center;
 }
 
 /* the header form form */
 .headForm {
-    margin: 2% auto 10% auto;
+    margin: 2% auto 10% 52px;
     text-align: center;
 }
 
@@ -67,10 +79,10 @@
 
 
 /* .input-item {
-    background: #fff;
-    color: #333;
-    padding: 14.5px 0px 15px 9px;
-    border-radius: 5px 0px 0px 5px;
+background: #fff;
+color: #333;
+padding: 14.5px 0px 15px 9px;
+border-radius: 5px 0px 0px 5px;
 } */
 
 

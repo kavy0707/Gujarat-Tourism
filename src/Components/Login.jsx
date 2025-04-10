@@ -37,7 +37,6 @@ function Login() {
     }
 
     return (
-        <div className="overlay">
 
 
             <form id="signupForm" onSubmit={handleclick}>
@@ -62,7 +61,6 @@ function Login() {
                     </div>
                 </div>
             </form>
-        </div>
     )
 }
 

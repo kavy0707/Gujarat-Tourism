@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import cityData from './data/city.json';  
-import './Css/City.css';  
+import './Css/Citypage.css';  
 
 function CityPage() {
   const { cityName } = useParams();  

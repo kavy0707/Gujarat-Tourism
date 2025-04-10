@@ -18,5 +18,5 @@ app.get('/hello', (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log(`myinfo successfully running on port 3000`);
+  console.log(`Gujarat Tourism successfully running on port 3000`);
 });
