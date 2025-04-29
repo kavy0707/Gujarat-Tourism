@@ -27,4 +27,21 @@ router.post('/localguide', async (req, res) => {
 });
 
 
+router.get('/showguide', async (req, res) => {
+    const { cityname } = req.query;
+
+    try {
+       const guide = await Guide.find({ city: { $regex: new RegExp(`^${cityname}$`, 'i') } });
+ 
+        if (!guide || guide.length === 0) {
+            return res.status(404).json({ error: "Guide not Found" });
+        }
+
+        res.json({ message: "guide available", guides: guide });  // ✅ fixed key
+    } catch (error) {
+        console.error(error);
+        res.status(500).json("some error occurred");
+    }
+});
+
 export default router;

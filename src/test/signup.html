@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css?family=Abel|Abril+Fatface|Alegreya|Arima+Madurai|Dancing+Script|Dosis|Merriweather|Oleo+Script|Overlock|PT+Serif|Pacifico|Playball|Playfair+Display|Share|Unica+One|Vibur');
+
+    /* End Fonts */
+    /* Start Global rules */
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    .signupPage {
+        background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
+        background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        font-family: 'Vibur', cursive;
+        font-family: 'Abel', sans-serif;
+        opacity: .95;
+    }
+
+
+    /* End body rules */
+
+    /* Start form  attributes */
+    #signupForm {
+        width: 450px;
+        min-height: 500px;
+        height: auto;
+        border-radius: 5px;
+        margin: 2% auto;
+        box-shadow: 0 9px 50px hsla(20, 67%, 75%, 0.31);
+        padding: 2%;
+        background-image: linear-gradient(-233deg, #E3FDF5 50%, #FFE6FA 50%);
+    }
+
+    /* form Container */
+    #signupForm .con {
+        display: -webkit-flex;
+        display: flex;
+
+        -webkit-justify-content: space-around;
+        justify-content: space-around;
+
+        -webkit-flex-wrap: wrap;
+        flex-wrap: wrap;
+
+        margin: 0 auto;
+    }
+
+    /* the header form form */
+    .headForm {
+        margin: 2% auto 10% auto;
+        text-align: center;
+    }
+
+    /* Login title form form */
+    .headForm h2 {
+        font-size: 250%;
+        font-family: 'Playfair Display', serif;
+        color: #3e403f;
+    }
+
+    /*  A welcome message or an explanation of the login form */
+    .headForm p {
+        letter-spacing: 0.05em;
+    }
+
+
+    /* .input-item {
+    background: #fff;
+    color: #333;
+    padding: 14.5px 0px 15px 9px;
+    border-radius: 5px 0px 0px 5px;
+} */
+
+
+
+    /* Show/hide password Font Icon */
+
+    #Password {
+        width: 251px;
+    }
+
+    /* inputs form  */
+    input[class="formInput"] {
+        width: 251px;
+        height: 50px;
+
+        margin-top: 2%;
+        padding: 15px;
+        margin-left: 61px;
+
+        font-size: 16px;
+        font-family: 'Abel', sans-serif;
+        color: #5E6472;
+
+        outline: none;
+        border: none;
+
+        border-radius: 0px 5px 5px 0px;
+        transition: 0.2s linear;
+
+    }
+
+
+    /* focus  */
+    input:focus {
+        transform: translateX(-2px);
+        border-radius: 5px;
+    }
+
+    #signupBtn {
+        display: inline-block;
+        color: #252537;
+        width: 113px;
+        height: 50px;
+        padding: 0 20px;
+        background: #B8F2E6;
+        border-radius: 7px;
+        outline: none;
+        border: none;
+        cursor: pointer;
+        text-align: center;
+        transition: all 0.2s linear;
+        margin: 7% auto;
+        letter-spacing: 0.05em;
+        margin-left: 136px;
+        font-size: 19px;
+    }
+
+    /* Submits */
+    .signUpBtn {
+        width: 48%;
+        display: inline-block;
+        float: left;
+        margin-left: 2%;
+    }
+
+
+    .frgt-pass {
+        background: transparent;
+    }
+
+    .sign-up {
+        background: #B8F2E6;
+    }
+
+
+    #signupBtn:hover {
+        transform: translatey(3px);
+        box-shadow: none;
+    }
+
+    #signupBtn:hover {
+        animation: ani9 0.4s ease-in-out infinite alternate;
+    }
+
+    @keyframes ani9 {
+        0% {
+            transform: translateY(3px);
+        }
+
+        100% {
+            transform: translateY(5px);
+        }
+    }
+</style>
+
+<body>
+    <div class="signupPage">
+        <div class="overlay">
+            <form id="signupForm" onSubmit={handleSubmit}>
+                <div class="con">
+                    <header class="headForm">
+                        <h2>Sign-up</h2>
+                    </header>
+
+                    <div class="fieldSet" id="fieldset">
+                        <span class="formInput" id="formInput">
+                            <i class="fa fa-user-circle"></i>
+                        </span>
+                        <input class="formInput" id="Firstname" name="Firstname" type="text" placeholder="Firstname"
+                            onChange={onchange} required />
+                        <input class="formInput" id="Lastname" name="Lastname" type="text" placeholder="Lastname"
+                            onChange={onchange} required />
+                        <input class="formInput" id="Number" name="Number" type="text" placeholder="Phone number"
+                            onChange={onchange} required />
+                        <input class="formInput" id="Email" name="email" type="text" placeholder="Email"
+                            onChange={onchange} required />
+                        <input class="formInput" id="Username" name="Username" type="text" placeholder="@UserName"
+                            onChange={onchange} required />
+                        <input class="formInput" type="password" placeholder="Password" id="Password"
+                            name="password" onChange={onchange} required />
+
+                        <button type="submit" id="signupBtn" class="signUpBtn">Sign-up</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

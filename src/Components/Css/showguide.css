@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Main {
+    font-family: Arial, sans-serif;
+    margin-top: -30px;
+}
+
+/* Header Container */
+.head-show {
+    height: 220px;
+    background: linear-gradient(to right, #ffe3e3, #fff);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #ccc;
+    padding: 0;
+    margin-bottom: 0px;
+    width: 100%;
+}
+
+/* Title Centered in Header */
+.header-title-show {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* Title Styling */
+.header-title h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #b97979;
+    margin: 0;
+}
+
+/* 
+
+form {
+    width: 87px;
+} */
+
+/* card  */
+/* .guide-card {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 16px;
+    margin: 12px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+}
+
+#guide {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+}  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Layout */
+.content-container {
+    display: flex;
+    padding: 20px;
+    background-color: #1c1c1c;
+    color: white;
+}
+
+/* Left Panel */
+.left-panel {
+    width: 25%;
+    padding: 20px;
+    background-color: #2e2e2e;
+    border-right: 2px solid #444;
+}
+
+.left-panel h2 {
+    margin-bottom: 15px;
+}
+
+.city-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.city-list li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #444;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.city-list li:hover {
+    background-color: #666;
+}
+
+/* Right Panel */
+.right-panel {
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    padding: 20px;
+}
+
+/* Guide Card */
+.guide-card {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    transition: transform 0.2s;
+    height: auto;
+}
+
+.guide-card:hover {
+    transform: translateY(-5px);
+}
+
+.left-panel h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: white;
+}
+
+#guide {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+}
